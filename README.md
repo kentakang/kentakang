@@ -13,7 +13,7 @@
 | 2018.12 ~ 2021.01 | 🏢 DKBrothers | Backend Developer |
 | 2020.01 ~ 2021.02 | 🏢 DKBrothers | Development Team Leader |
 
-## I love ❤️
+## My Favorite ❤️
 * React
 * React Native
 * GraphQL
