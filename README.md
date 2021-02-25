@@ -3,7 +3,7 @@
 * Full Stack Engineer
 * Preparing to start a business
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentakang&langs_count=10&layout=compact"><img align="right" height="130px" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kentakang">
+<img height="142px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentakang&langs_count=10&layout=compact"><img align="right" height="142px" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kentakang">
 
 ## My experiences 🧑‍💻
 
