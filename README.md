@@ -20,6 +20,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-kentakang-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kentakang/)](https://instagram.com/kentakang)
 
 ## Technologies
+<details markdown="tech">
+<summary>Toggle</summary>
+
 ### Proficient
 * JavaScript
 * TypeScript
@@ -49,4 +52,16 @@
 * Kubernetes
 * Svelte
 * Rust
-* WebRTC
+* WebRTC  
+  
+</details>
+
+### Just fun (stats, trophies...)
+<details markdown="fun">
+<summary>Toggle</summary>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kentakang)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kentakang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentakang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
