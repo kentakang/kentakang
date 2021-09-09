@@ -10,7 +10,7 @@
 | When | Where | What |
 | ---- | ----- | ---- |
 | 2017.03 ~ 2020.02 | 🧑‍🎓 Hanyang Technical High School | Computer Network Department |
-| 2018.12 ~ 2021.01 | 🏢 DKBrothers | Backend Developer |
+| 2018.12 ~ 2020.01 | 🏢 DKBrothers | Backend Developer |
 | 2020.01 ~ 2021.02 | 🏢 DKBrothers | Development Team Leader |
 | 2021.02 ~ | 🏢 Investy Co, Ltd. | Co-Founder & Chief Technical Officer |
 
