@@ -64,6 +64,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kentakang)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kentakang)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentakang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img height="132px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentakang&langs_count=10&layout=compact"><img align="right" height="132px" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kentakang">
+<img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kentakang">
   
 </details>
