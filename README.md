@@ -25,25 +25,21 @@
 <summary>Toggle</summary>
 
 ### Proficient
-* JavaScript
 * TypeScript
-* HTML
-* CSS
 * React (and Next.js)
 * React Native
-* Redux, Recoil
-* GraphQL (and REST API too)
+* Nest.js
+* Python
 * Git
 * AWS
-* MySQL
+* MySQL (MariaDB)
 * MongoDB
 
 ### Knowledgeable
-* Python
 * Kotlin (and Java)
-* Vue
-* Nest.js
-* Gatsby
+* Vue.js
+* Objective-C
+* Swift
 * shell script
 * CI/CD (with Github Actions or AWS CodePipeline)
 * Docker
@@ -53,7 +49,7 @@
 * Kubernetes
 * Svelte
 * Rust
-* WebRTC  
+* WebRTC
   
 </details>
 
