@@ -50,6 +50,7 @@
 * Svelte
 * Rust
 * WebRTC
+* Go
   
 </details>
 
