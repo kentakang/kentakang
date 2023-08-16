@@ -34,9 +34,10 @@
 * Git
 * AWS
 * MySQL (MariaDB)
-* MongoDB
+* PostgreSQL
 
 ### Knowledgeable
+* Rust
 * Kotlin (and Java)
 * Vue.js
 * Objective-C
@@ -44,12 +45,12 @@
 * shell script
 * CI/CD (with Github Actions or AWS CodePipeline)
 * Docker
+* MongoDB
 
 ### Interested
 * WebAssembly
 * Kubernetes
 * Svelte
-* Rust
 * WebRTC
 * Go
   
