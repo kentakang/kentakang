@@ -18,8 +18,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-me@kentakang.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@kentakang.com)](mailto:me@kentakang.com)
 [![Linkedin Badge](https://img.shields.io/badge/-kentakang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kentakang/)](https://www.linkedin.com/in/kentakang/)
 [![Instagram Badge](https://img.shields.io/badge/-kentakang-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kentakang/)](https://instagram.com/kentakang)
-[![Keybase Badge](https://img.shields.io/badge/-kentakang-blue?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/kentakang)](https://keybase.io/kentakang)
-[![Twitter Badge](https://img.shields.io/badge/-kentakang-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kentakang__)](https://twitter.com/kentakang__)
+[![Threads Badge](https://img.shields.io/badge/-kentakang-white?style=flat&logo=threads&logoColor=black&link=https://threads.net/@kentakang)](https://threads.net/@kentakang)
 
 ## Technologies
 <details markdown="tech">
