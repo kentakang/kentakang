@@ -12,7 +12,7 @@
 | 2017.03 ~ 2020.02 | 🧑‍🎓 Hanyang Technical High School | Computer Network Department |
 | 2018.12 ~ 2020.01 | 🏢 DKBrothers | Backend Developer |
 | 2020.01 ~ 2021.02 | 🏢 DKBrothers | Development Team Leader |
-| 2021.02 ~ | 🏢 Investy Co, Ltd. | Co-Founder & Chief Technical Officer |
+| 2021.02 ~ 2025.07 | 🏢 Investy Co, Ltd. | Co-Founder & Chief Technical Officer |
 
 ## How to reach me 🤙
 [![Gmail Badge](https://img.shields.io/badge/-me@kentakang.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@kentakang.com)](mailto:me@kentakang.com)
